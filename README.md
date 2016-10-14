@@ -2,7 +2,7 @@ jQuery Unobtrusive Ajax
 =============================
 
 Modified this Ajax library in order to support file uploads.
-Source code was taken from https://github.com/abelperezok/jquery-ajax-unobtrusive
+Source code modification was taken from https://github.com/abelperezok/jquery-ajax-unobtrusive/blob/master/jquery.unobtrusive-ajax.js
 
 The jQuery Unobtrusive Ajax library complements jQuery Ajax methods by adding support for specifying options for HTML replacement via Ajax calls as HTML5 `data-*` elements.
 
